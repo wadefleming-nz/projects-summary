@@ -53,13 +53,13 @@ In Progress
 
 Open source timeline control for Angular.
 
-Demo: 	  https://dreamy-goldstine-78a546.netlify.app/basic  
+Demo: 	  https://dreamy-goldstine-78a546.netlify.app/ 
 Github: 	https://github.com/rxtime/ngx-rxtimeline  
 
-•	Core contributor, worked with principal developer to implement the control from proof of concept
-•	Input into design and architecture decisions
-•	Wrote redux-like selector implementation
-•	Identified issues/new features, performed code reviews
+•	Core contributor, worked with principal developer to implement the control from proof of concept  
+•	Input into design and architecture decisions  
+•	Wrote redux-like selector implementation  
+•	Identified issues/new features, performed code reviews  
 
 Technologies:	Angular, Typescript, D3, RxJS, Hand-rolled Redux-like state management, Functional programming
 
